@@ -1,3 +1,9 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.4d401f,mp4a.40.2",BANDWIDTH=800000,RESOLUTION=640x360
-https://tmsbd.top/tf/ts.php?id=14&url=https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonymax_hd_576/sonymax_hd_576.m3u8?bitrate=512000&channel=sonymax_hd_576&gp_id=
+http://on.deflix.xyz:8880/live/hasan19/hasan1519/1354.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.4d401f,mp4a.40.2",BANDWIDTH=800000,RESOLUTION=640x360
+http://on.deflix.xyz:8880/live/hasan19/hasan1519/1354.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.4d401f,mp4a.40.2",BANDWIDTH=800000,RESOLUTION=640x360
+http://on.deflix.xyz:8880/live/hasan19/hasan1519/1354.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.4d401f,mp4a.40.2",BANDWIDTH=800000,RESOLUTION=640x360
+http://on.deflix.xyz:8880/live/hasan19/hasan1519/1354.m3u8
